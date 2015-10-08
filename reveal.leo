@@ -2292,9 +2292,10 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 	
 </t>
-<t tx="leo.20151008122820.8">&lt;section&gt;
+<t tx="leo.20151008122820.8">&lt;section&gt; 
     &lt;h2&gt;心得與自評&lt;/h2&gt;
     &lt;p&gt;solvespace對我而言是一套新的cad軟體可以做機構的位移，亦可測量位移，用excel或是SciTE做計算&lt;/p&gt;
+    &lt;p&gt;自評分數 : 65 分&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
